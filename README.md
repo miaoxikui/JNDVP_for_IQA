@@ -1,2 +1,4 @@
 # JNDVP_for_IQA
 JNDVP_for_IQA
+
+Just noticeable difference(JND) reveals the limitation of visual sensitivity of human vision system(HVS), and any perceptible distortion intensity is greater than JND threshold. Moreover, distortions can destroy not only the image local luminance contrast but also image structures, to both of which HVS is highly sensitive. Inspired by this,a new visual pattern(JNDVP) based on JND for IQA is proposed in the paper. considering that image contrast is sensitive to distortions, thus, contrast is used as weighting factors for JNDVP based histogram creation to characterize the structural and contrast information into a single representation. Experimental results on three benchmark databases demonstrate that the proposed JNDVP can effectively represent image structures, and the proposed method achieves high consistency with subjective perception, performing better than the other IQA methods.
